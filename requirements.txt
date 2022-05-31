@@ -1,0 +1,12 @@
+matplotlib==3.2.1
+numpy==1.18.4
+pandas==1.0.3
+pandocfilters==1.4.2
+plotly==4.8.1
+ply==3.11
+python-dateutil==2.8.1
+scipy==1.4.1
+seaborn==0.10.1
+Send2Trash==1.5.0
+streamlit==0.62.0
+base58==2.0.1
