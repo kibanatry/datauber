@@ -10,3 +10,4 @@ seaborn==0.10.1
 Send2Trash==1.5.0
 streamlit==0.62.0
 base58==2.0.1
+setuptools==0.7.3
